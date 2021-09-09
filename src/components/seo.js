@@ -38,7 +38,11 @@ function Seo({ description, lang, meta, title }) {
       meta={[
         {
           name: `description`,
-          content: metaDescription,
+          content: "This is a sample website for the Gatsby crash course",
+        },
+        {
+          name: "keywords",
+          content: "gatsby, react, tutorial, blog",
         },
         {
           property: `og:title`,
