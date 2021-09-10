@@ -19,7 +19,7 @@ const BlockPage = ({ data }) => (
           </small>
           <br></br>
           <br></br>
-          <Link to="post.node.frontmatter.path">Read more</Link>
+          <Link to={post.node.frontmatter.path}>Read more</Link>
           <br></br>
           <br></br>
           <hr></hr>

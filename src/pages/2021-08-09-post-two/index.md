@@ -1,7 +1,7 @@
 ---
 path: "/post-two"
 date: "2021-09-09"
-title: "My first Gatsby Post"
+title: "My Second Gatsby Post"
 author: "John Doe"
 ---
 
